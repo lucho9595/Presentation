@@ -1,11 +1,9 @@
 <img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/svg.svg" alt="hello world"/>
 
 
-<h1 align="center">Hi 👋, I'm Camilo Pineda</h1>
+<h1 align="center">Hi 👋, I'm Luciano Coronel</h1>
 
-<img src="https://user-images.githubusercontent.com/66718960/168454827-e8cd2493-f09d-4b51-a058-d576f437d3bc.gif" width="850" height="400">
-
-<h3 align="center">I am 30 years old Colombian who loves video-games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them. The past 2020 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!</h3>
+<h3 align="center">I am 27 years old Buenos Aires who loves video-games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them. The past 2020 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!</h3>
 
 ```javascript
 const aboutMe = {
@@ -26,9 +24,9 @@ const aboutMe = {
 ```
 - 🌱 I’m currently learning **Kotlin, Python**
 
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize**
+- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize, Express, SQLite3, Typescript, Angular, Tailwind, Bootstrap, Firebase, Nodemailer**
 
-- 📫 How to reach me **bpinedalopera@gmail.com**
+- 📫 How to reach me **lucianocoronel48@gmail.com**
 
 - 📄 Know about my experiences Since 2018 I worked as an intern for the Valle del Cauca Department in Colombia, working as a developer in the project Architecture of the Digital Innovation Ecosystem AECINDI, adopted by the Valle del Cauca Department in Colombia as part of the technological development plan "Valle territorio inteligente e innovador". In this project I acquired a great sense of commitment, teamwork and respect for the diverse thoughts and attitudes of other people.](Since 2018 I worked as an intern for the Valle del Cauca Department in Colombia, working as a developer in the project Architecture of the Digital Innovation Ecosystem AECINDI, adopted by the Valle del Cauca Department in Colombia as part of the technological development plan "Valle territorio inteligente e innovador". In this project I acquired a great sense of commitment, teamwork and respect for the diverse thoughts and attitudes of other people.)
 
@@ -36,8 +34,8 @@ const aboutMe = {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bryancamilopineda/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" /></a>
-<a href="https://fb.com/bryancamilo.pinedalopera/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/bryancamilo.pinedalopera/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luciano-coronel-90503bb8/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/luciano-coronel-90503bb8/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/good.that/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/good.that/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
