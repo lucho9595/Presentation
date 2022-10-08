@@ -11,24 +11,21 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS, Java],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap", "Material UI"]
+         js: ["React", "Redux", "Angular"],
+         css: ["Bootstrap", "Figma", "Taliwind"]
       },
       backEnd: {
-         js: ["Node", "Express"]
+         js: ["Node", "Express", "Sequelize", "SpringBoot"]
       },
-      databases: ["MongoDB", "PostgreSQL"],
+      databases: ["ThunderClient", "PostgreSQL"],
    },
-   currentOccupation: ["Tech Instructor at Henry"],
 };
 ```
-- 🌱 I’m currently learning **Kotlin, Python**
-
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize, Express, SQLite3, Typescript, Angular, Tailwind, Bootstrap, Firebase, Nodemailer**
 
 - 📫 How to reach me **lucianocoronel48@gmail.com**
 
-- 📄 Know about my experiences Since 2018 I worked as an intern for the Valle del Cauca Department in Colombia, working as a developer in the project Architecture of the Digital Innovation Ecosystem AECINDI, adopted by the Valle del Cauca Department in Colombia as part of the technological development plan "Valle territorio inteligente e innovador". In this project I acquired a great sense of commitment, teamwork and respect for the diverse thoughts and attitudes of other people.](Since 2018 I worked as an intern for the Valle del Cauca Department in Colombia, working as a developer in the project Architecture of the Digital Innovation Ecosystem AECINDI, adopted by the Valle del Cauca Department in Colombia as part of the technological development plan "Valle territorio inteligente e innovador". In this project I acquired a great sense of commitment, teamwork and respect for the diverse thoughts and attitudes of other people.)
+- 📄 Learn about my experiences From 2014 I worked as a beach boy at Shell until 2016. Then I worked at the Hipodromo de Palermo for about 3 months due to security circumstances at the work location I had to resign. Since 2018 I worked in a hardware store as customer service and did administrative work, from deposits to check collection, and from 2021 to date I find myself working administratively in a wholesale distributor on price changes and modifications of the company website. Today I am looking for my first job opportunity in the technological world, and to grow professionally demonstrating all my knowledge.
 
 - ⚡ Fun fact **After many hours of writing code, I enter a state called "dumb time" which consists of an abstract state of constant illogical thinking talking to my brain about everything and nothing.**
 
