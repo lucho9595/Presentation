@@ -51,6 +51,10 @@ const aboutMe = {
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank"><img src="https://repository-images.githubusercontent.com/24195339/87018c00-694b-11e9-8b5f-c34826306d36" alt="angular" width="40" height="40"/></a>
+<a href="https://spring.io" target="_blank"><img src="https://www.vincenzoracca.com/images/spring.png" alt="springboot" width="40" height="40"/></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryancpineda&show_icons=true&theme=dark&locale=en&layout=compact" alt="lucho9595" /></p>
 </br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucho9595&show_icons=true&locale=en" alt="joaquinboto" /></p>
