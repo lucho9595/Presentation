@@ -54,7 +54,6 @@ const aboutMe = {
 <a href="https://angular.io" target="_blank"><img src="https://repository-images.githubusercontent.com/24195339/87018c00-694b-11e9-8b5f-c34826306d36" alt="angular" width="40" height="40"/></a>
 <a href="https://spring.io" target="_blank"><img src="https://www.vincenzoracca.com/images/spring.png" alt="springboot" width="40" height="40"/></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryancpineda&show_icons=true&theme=dark&locale=en&layout=compact" alt="lucho9595" /></p>
-</br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucho9595&show_icons=true&theme=dark&locale=en&layout=compact" alt="lucho9595" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucho9595&show_icons=true&locale=en" alt="joaquinboto" /></p>
