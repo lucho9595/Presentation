@@ -23,7 +23,9 @@ const aboutMe = {
 ```
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize, Express, SQLite3, Typescript, Angular, Tailwind, Bootstrap, Firebase, Nodemailer**
 
-- 📫 How to reach me **lucianocoronel48@gmail.com**
+- 📫 How to reach me: **lucianocoronel48@gmail.com**
+
+- 📱 My number is: **+5491137601819**
 
 - 📄 Learn about my experiences From 2014 I worked as a beach boy at Shell until 2016. Then I worked at the Hipodromo de Palermo for about 3 months due to security circumstances at the work location I had to resign. Since 2018 I worked in a hardware store as customer service and did administrative work, from deposits to check collection, and from 2021 to date I find myself working administratively in a wholesale distributor on price changes and modifications of the company website. Today I am looking for my first job opportunity in the technological world, and to grow professionally demonstrating all my knowledge.
 
