@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Luciano Coronel</h1>
 
-<h3 align="center">I am 27 years old Buenos Aires who loves video-games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them. The past 2020 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!</h3>
+<h3 align="center">I am 28 years old Buenos Aires who loves video-games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them. The past 2020 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!</h3>
 
 ```javascript
 const aboutMe = {
@@ -11,13 +11,13 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS, Java],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux", "Angular"],
-         css: ["Bootstrap", "Figma", "Taliwind"]
+         js: ["React", "Redux", "Angular", "Vue"],
+         css: ["Bootstrap", "Figma", "Tailwind", "Styled-components"]
       },
       backEnd: {
          js: ["Node", "Express", "Sequelize", "SpringBoot"]
       },
-      databases: ["ThunderClient", "PostgreSQL"],
+      databases: ["MySQL", "PostgreSQL", "MongoDB"],
    },
 };
 ```
@@ -26,10 +26,6 @@ const aboutMe = {
 - 📫 How to reach me: **lucianocoronel48@gmail.com**
 
 - 📱 My number is: **+5491137601819**
-
-- 📄 Learn about my experiences From 2014 I worked as a beach boy at Shell until 2016. Then I worked at the Hipodromo de Palermo for about 3 months due to security circumstances at the work location I had to resign. Since 2018 I worked in a hardware store as customer service and did administrative work, from deposits to check collection, and from 2021 to date I find myself working administratively in a wholesale distributor on price changes and modifications of the company website. Today I am looking for my first job opportunity in the technological world, and to grow professionally demonstrating all my knowledge.
-
-- ⚡ Fun fact **After many hours of writing code, I enter a state called "dumb time" which consists of an abstract state of constant illogical thinking talking to my brain about everything and nothing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
